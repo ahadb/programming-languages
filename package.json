@@ -1,0 +1,33 @@
+
+{
+  "name": "programming-languages",
+  "version": "1.0.0",
+  "description": "An array of 256 programming languages",
+  "license": "MIT",
+  "repository": "https://github.com/ahadb/programming-languages",
+  "author": {
+    "name": "Ahad Bokhari",
+    "email": "ahadbokhari@gmail.com",
+    "url": "http://ahadb.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "proglang.js"
+  ],
+  "keywords": [
+    "software",
+    "array",
+    "arr",
+    "list",
+    "programming",
+    "languages"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
