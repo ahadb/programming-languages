@@ -1,17 +1,17 @@
 # programming-languages
-A list of programming languages [array] to be consumed by JavaScripters. 
+A list of programming languages [array] ready for consumption in Node.
 
 ## Install 
 `npm install --save programming-languages` 
 
 ## Usage
 
-`var proglang = require('proglang');`
-`console.log('I love programming in ' + proglang[x]);` // where x is replaced by item
+* `var proglang = require('proglang');
+* `console.log('I love programming in ' + proglang[x]);` // where x is replaced by index
 
 ## Todo
 
-Basic stub up and running, rework, tests required ...
+Add more data, extend array to possible object.
 
 
 

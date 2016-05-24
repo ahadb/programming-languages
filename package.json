@@ -1,7 +1,7 @@
 
 {
   "name": "programming-languages",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "An array of 256 programming languages",
   "license": "MIT",
   "repository": "https://github.com/ahadb/programming-languages",
