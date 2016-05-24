@@ -6,7 +6,7 @@ A list of programming languages [array] ready for consumption in Node.
 
 ## Usage
 
-* `var proglang = require('proglang');
+* `var proglang = require('proglang');`
 * `console.log('I love programming in ' + proglang[x]);` // where x is replaced by index
 
 ## Todo
