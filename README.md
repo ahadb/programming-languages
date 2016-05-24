@@ -1,5 +1,5 @@
 # programming-languages
-A list of programming languages to be consumed by JavaScripters
+A list of programming languages [array] to be consumed by JavaScripters. 
 
 ## Install 
 `npm install --save programming-languages` // todo, tomorrow :/
