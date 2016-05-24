@@ -7,7 +7,7 @@ A list of programming languages [array] to be consumed by JavaScripters.
 ## Usage
 
 `var proglang = require('proglang');`
-`console.log('I love programming in ' + proglang[x]);' // where x is replaced by item
+`console.log('I love programming in ' + proglang[x]);` // where x is replaced by item
 
 ## Todo
 
